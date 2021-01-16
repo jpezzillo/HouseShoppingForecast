@@ -1,1 +1,4 @@
 .xslx
+*.csv
+*.ipynb_checkpoints
+*.gitignore

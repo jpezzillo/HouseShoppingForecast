@@ -3,3 +3,4 @@ ZHVA_SingleFamilyHomes.csv
 .ipynb_checkpoints
 *.log
 *.csv
+.csv

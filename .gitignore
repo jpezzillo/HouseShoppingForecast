@@ -1,4 +1,5 @@
 .xslx
+ZHVA_SingleFamilyHomes.csv
+.ipynb_checkpoints
+*.log
 *.csv
-*.ipynb_checkpoints
-*.gitignore
